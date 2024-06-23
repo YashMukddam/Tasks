@@ -1,0 +1,52 @@
+"name","year","age_rating","duration","category","imdb_rating"
+"Casablanca",1942,"PG",102,"drama/romance",9
+"Psycho",1960,"R",109,"horror/thriller",9
+"The Godfather",1972,"R",175,"crime/drama",9
+"Star Wars: Episode IV - A New Hope",1977,"PG",121,"action/adventure",8
+"E.T. the Extra-Terrestrial",1982,"PG",115,"family/sci_fi",8
+"E.T. the Extra-Terrestrial",1982,"PG",115,"family/sci_fi",8
+"Terminator 2: Judgment Day",1991,"R",137,"action/sci_fi",9
+"Forrest Gump",1994,"PG_13",142,"drama/romance",9
+"Titanic",1997,"PG_13",195,"drama/romance",8
+"The Matrix",1999,"R",136,"action/sci_fi",9
+"Gladiator",2000,"R",155,"action/drama",9
+"The Lord of the Rings: The Fellowship of the Ring",2001,"PG_13",178,"Adventure/drama",9
+"Spirited Away",2001,"PG",125,"animation/adventure",9
+"The dark Knight",2008,"PG_13",152,"Actio/Crime",9
+"Inception",2010,"PG_13",148,"Action/Adventure",9
+"The Avengers",2012,"PG_13",143,"action/Adventure",8
+"Django Unchained",2012,"R",165,"drama/Western",8
+"Frozen",2013,"PG",102,"animation/adventure",7
+"interstellar",2014,"PG_13",169,"adventure/drama",9
+"The Martian",1994,"PG_13",144,"adventure/sci_fi",8
+"La La Land",1997,"PG_13",128,"comedy/drama",8
+"Get Out",2017,"R",104,"horror/mystery",8
+"The Shape Of Water",2017,"R",123,"adventure/drama",7
+"black Panther",2018,"PG_13",134,"action/adventure",7
+"Joker",2019,"R",122,"crime/drama",8
+"Parasite",2019,"PG_13",132,"comedy/drama",9
+"The Shawshank Redemption",1994,"PG_13",142,"dram",9
+"Pulp Fiction",1994,"R",154,"crime/drama",9
+"Schniders list",1993,"R",195,"biography/drama",9
+"the Silence Of Lambs",1991,"R",118,"crime/drama",9
+"The green Miles",1999,"R",189,"crime/drama",9
+"Fight Club",1999,"R",139,"drama",9
+"The Prestige",2006,"PG_13",130,"dram/mystery",9
+"The Departed",2006,"R",151,"crime/drama",9
+"No Country For Old Man",2007,"R",122,"crime/drama",8
+"Slumdog Millionaire",2008,"R",120,"drama/Romance",7
+"The social network",2010,"PG_13",120,"Biography/drama",9
+"The grand Budapest Hotel",2014,"R",99,"adventure/comedy",8
+"Whiplash",2014,"R",106,"drama/Music",8
+"The birdman",2014,"R",119,"comedy/drama",8
+"Spotlight",2015,"R",129,"crime/drama",7
+"moonlight",2016,"R",111,"Drama",8
+"three Billboard Of Outside Ebbing Missourie",2017,"R",115,"Crime/Drama",8
+"Roma",2018,"R",135,"drama",8
+"once Uopn time In a hollywood",2019,"R",161,"Comedy/Drama",8
+"1917",2019,"R",119,"drama/War",8
+"Dunkirk",2017,"PG_13",106,"Action/Drama",8
+"The revenant",2015,"R",156,"Action/Adventure",7
+"Arrival ",2016,"PG_13",116,"drama/Sci_fi",8
+"her",2013,"R",169,"drama/romance",8
+"gone Girl",2014,"R",149,"Drama/mystery",8
